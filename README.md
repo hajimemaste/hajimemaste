@@ -42,6 +42,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="Mongodb" alt="Mongodb" width="40" height="40"/>&nbsp;
 </div>
 
 <h2 align="center">:fire: Streak Stats : <img src="https://github.com/MLX15/MLX15/blob/master/a.gif" /></h2>
@@ -53,26 +55,10 @@
 <h2 align="center">:computer: GitHub Profile Stats : <img src="https://github.com/MLX15/MLX15/blob/master/a.gif" /></h2>
 
 <div align="center">
-  <img alt="Luan-Thnh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=luan-thnh&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-  <img alt="Luan-Thnh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luan-thnh&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
-  <img alt="Luan-Thnh's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=luan-thnh&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true&radius=8" height="268px"/>
+  <img alt="DaiHung's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hajimemaste&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+  <img alt="DaiHung's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hajimemaste&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
+  <img alt="DaiHung's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=hajimemaste&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true&radius=8" height="268px"/>
 </div>
 
-<h2 align="center">:heart: My Favorite Repositories: <img src="https://github.com/MLX15/MLX15/blob/master/a.gif" /></h2>
 
-<div align="center">
-  <a href="https://github.com/luan-thnh/music-player"><img src="https://github-readme-stats.vercel.app/api/pin/?username=luan-thnh&repo=music-player&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="130px" width="400px"/></a>
-  <a href="https://github.com/luan-thnh/lets-food"><img src="https://github-readme-stats.vercel.app/api/pin/?username=luan-thnh&repo=lets-food&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="130px" width="400px"/></a>
-  <a href="https://github.com/luan-thnh/todo-list"><img src="https://github-readme-stats.vercel.app/api/pin/?username=luan-thnh&repo=todo-list&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="130px" width="400px"/></a>
-  <a href="https://github.com/luan-thnh/foodyar"><img src="https://github-readme-stats.vercel.app/api/pin/?username=luan-thnh&repo=foodyar&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="130px" width="400px"/></a>
-  <a href="https://github.com/luan-thnh/github-shop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=luan-thnh&repo=github-shop&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="130px" width="400px"/></a>
-  <a href="https://github.com/luan-thnh/finsweet"><img src="https://github-readme-stats.vercel.app/api/pin/?username=luan-thnh&repo=finsweet&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="130px" width="400px"/></a>
-</div>
-
-<h2 align="center">🐍 Just a snake eating my contributions</h2>
-<a href="https://www.facebook.com/"><img src="https://github.com/MLX15/MLX15/blob/master/a.gif"></a>
-<p align='center'>
-  <img src="https://github.com/luan-thnh/luan-thnh/blob/main/github-user-contribution.svg">
-</p>
-
-<h3 align="center">Created by @luanthnh :fountain_pen:</h3>
+<h3 align="center">Created by @daihung :fountain_pen:</h3>
