@@ -7,33 +7,29 @@
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
   
-  <a href="blob:https://chat.zalo.me/51cbbdb8-0345-4f20-92a3-49286f9e9eee" style="text-decoration: none">
+  <a href="https://drive.google.com/file/d/1KCrKMocsvZSbM1Y2DWgpiU2QhZ1N4PDd/view?usp=sharing" style="text-decoration: none">
     <img src="https://img.shields.io/badge/Zalo-blue?style=for-the-badge&logo=zalo&logoColor=white"/>
   </a>
   
-  <a href="http://facebook.com/daihung.dev/" style="text-decoration: none">
-    <img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />  
+  <a href="#" style="text-decoration: none">
+    <img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="daihung.dev@gmail.com"/>  
   </a>
   
-  <a href="http://facebook.com/daihung.dev/" style="text-decoration: none">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white"/>
+  <a href="https://drive.google.com/file/d/1n4szqu_mIW4JgEz8HTxQk_CekPG3JH4D/view?usp=sharing" style="text-decoration: none">
+    <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  
-  <div id="header" align="center">
-    <img src="https://komarev.com/ghpvc/?username=yluan-thanh&style=flat-square&color=blue" alt=""/>
-  </div>
 
   <h1>
-    < Hello, I'm LuanThnh / >
+    < Hello, I'm DaiHung / >
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     <img src="https://github.com/MLX15/MLX15/blob/master/a.gif" />
   </h1>
-    <img src="https://github.com/MLX15/MLX15/blob/master/a.gif" />
+  
 </div>
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGkzN25rYXg4eXdqN3M1MmdxcWlneng4d3V4bDE2NXB2ZHR6c2phZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="500"/>
 </div>
 
 
