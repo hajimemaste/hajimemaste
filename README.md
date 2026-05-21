@@ -56,13 +56,4 @@
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="DenverCoder1's streak" src="https://streak-stats.demolab.com/?user=luan-thnh&theme=monokai-metallian&hide_border=true"/>
 </p>
 
-<h2 align="center">:computer: GitHub Profile Stats : <img src="https://github.com/MLX15/MLX15/blob/master/a.gif" /></h2>
-
-<div align="center">
-  <img alt="DaiHung's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hajimemaste&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-  <img alt="DaiHung's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hajimemaste&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
-  <img alt="DaiHung's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=hajimemaste&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true&radius=8" height="268px"/>
-</div>
-
-
 <h3 align="center">Created by @daihung :fountain_pen:</h3>
